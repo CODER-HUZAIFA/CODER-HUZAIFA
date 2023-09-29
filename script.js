@@ -1,4 +1,6 @@
 var typed = new Typed('#element', {
       strings: [' Web Development', ' Web Design', ' Digital Marketing', ' HTML', ' CSS', ' JavaScript', ' SEO', ],
-      typeSpeed: 50,
+      typeSpeed: 100,
+      backSpeed: 70,
+      loop: true,
     });
